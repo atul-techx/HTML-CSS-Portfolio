@@ -5,17 +5,19 @@ h1{
     color: red;
 }
 
-nav{
-    display: flex;
-    justify-content: center;
-    margin: 0.75rem;
-    /* text-align: center; */
 
+#nav{
+    text-align: center;
+    margin: 0.5rem 1rem;
 }
 
-*{
+/* *{
     border: 1px dotted black;
 
+} */
+
+div{
+    background-color: aquamarine;
 }
 
 
