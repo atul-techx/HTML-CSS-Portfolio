@@ -99,4 +99,4 @@ HTML-CSS Portfolio/
 
 ---
 
-Designed & Developed with ❤️ by **Atul Gangwar**
+Designed & Developed with Love by **Atul Gangwar**
