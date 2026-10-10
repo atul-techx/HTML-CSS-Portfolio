@@ -61,10 +61,6 @@ I am a passionate **B.Tech Computer Science student at Invertis University** (8.
 - **Key Features:** Daily modules tracker, streak & freeze mechanics, live leaderboards, and community forum.
 - **Domain:** Full-Stack Web Development, Python & Django
 
-### 💡 NexAlgoTrix DSA Solutions
-- **Description:** Algorithmic visualization and conceptual learning hub for complex data structures and dynamic programming.
-- **Role:** Research Head & Core Contributor
-
 ---
 
 ## 📂 Project Structure
