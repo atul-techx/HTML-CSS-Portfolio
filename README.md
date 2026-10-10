@@ -51,8 +51,15 @@ I am a passionate **B.Tech Computer Science student at Invertis University** (8.
 
 ### 🌱 Krishi AI – Smart Crop Advisory Platform
 - **Description:** An intelligent crop advisory platform built for the Smart India Hackathon to assist farmers through data-driven agricultural decisions.
+- **Repository:** [https://github.com/atul-techx/KRISHI-AI](https://github.com/atul-techx/KRISHI-AI)
 - **Key Features:** Voice assistance, soil analysis insights, crop disease detection, weather forecasts, and market intelligence.
 - **Domain:** AI, Web & IoT Agriculture
+
+### 🏆 SDE Prep Roadmap 90 Days
+- **Description:** A gamified 90-day learning and tracking platform built to prepare students for Software Development Engineer interviews.
+- **Repository:** [https://github.com/atul-techx/SDE-Prep-Roadmap-90-Days](https://github.com/atul-techx/SDE-Prep-Roadmap-90-Days)
+- **Key Features:** Daily modules tracker, streak & freeze mechanics, live leaderboards, and community forum.
+- **Domain:** Full-Stack Web Development, Python & Django
 
 ### 💡 NexAlgoTrix DSA Solutions
 - **Description:** Algorithmic visualization and conceptual learning hub for complex data structures and dynamic programming.

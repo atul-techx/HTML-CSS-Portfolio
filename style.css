@@ -675,6 +675,10 @@ ul {
     background: linear-gradient(135deg, #0284c7 0%, #06b6d4 100%);
 }
 
+.project-banner-emerald {
+    background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+}
+
 .project-type-badge {
     display: inline-flex;
     align-items: center;
