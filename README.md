@@ -94,7 +94,7 @@ HTML-CSS-Portfolio/
 
 3. Open `index.html` in your browser, or use the Live Server extension in VS Code.
 
-## Connect With Me
+## Connect With  Me
 
 - GitHub: [@atul-techx](https://github.com/atul-techx)
 - Email: [atulgangwar536@gmail.com](mailto:atulgangwar536@gmail.com)
