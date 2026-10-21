@@ -16,7 +16,7 @@ A modern, responsive personal portfolio showcasing my development journey, techn
 I'm currently pursuing B.Tech in Computer Science and Engineering at Invertis University, Bareilly. My primary interests are software development, the MERN stack, and Data Structures & Algorithms.
 
 - Research Head and Founding Member at NexAlgoTrix.
-- Worked on Krishi AI, a smart crop advisory platform for farmers.
+- Worked on Krishi AI, a smart crop advisory platform for small and marginal farmers.
 - Developed practical project experience through coding, hackathons, and collaborative development.
 - Continuously improving my problem-solving skills and exploring technologies to build useful software solutions.
 
